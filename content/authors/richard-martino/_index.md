@@ -120,5 +120,5 @@ highlight_name: false
 ---
 
 Hello! My name is Richard - I'm an epidemiologist and data analyst. My research interests include TB/HIV, global health, social determinants of health, and health disparities.
-Please use the contact form below or reach out through LinkedIn if you would like to connect!
+Please reach out through LinkedIn if you would like to connect!
 {style="text-align: justify;"}
