@@ -247,13 +247,13 @@ sections:
   #     title: Popular Topics
   #   design:
   #     columns: '2'
-  - block: contact
-    id: contact
-    content:
-      title: Contact
-      subtitle:
-      text: |-
-        This is occasionally monitored.
+  # - block: contact
+  #  id: contact
+  #  content:
+  #    title: Contact
+  #    subtitle:
+  #    text: |-
+  #      This is occasionally monitored.
       # Contact (add or remove contact options as necessary)
       # email: test@example.org
       # phone: 888 888 88 88
@@ -296,6 +296,6 @@ sections:
        # netlify:
           # Enable CAPTCHA challenge to reduce spam?
        #   captcha: true
-    design:
-      columns: '2'
+    # design:
+    #  columns: '2'
 ---
